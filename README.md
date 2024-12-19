@@ -1,4 +1,4 @@
-# fdopendir-safety-analysis
+# fdopendir-safe-analysis
 This repo focuses on the analysis of fdopendir with three concepts.
 
 # 🚀 Compiler Expert - Embedded Software Engineer - Mustafa Acar 🌟
@@ -13,12 +13,12 @@ This project is designed to:
 - 💡 Analyze its behavior with asynchronous signals (AS-Unsafe).
 - 🔗 Investigate memory and file descriptor management (AC-Unsafe).
 
----
+------------
 
 ## 📂 Project Structure
 
 ```plaintext
-📦 fdopendir-safety-analysis
+📦 fdopendir-safe-analysis
 ├── 📁 src
 │   ├── 📁 AC_UNSAFE
 │   │   ├── fdopendir_ac_unsafe_test.c
@@ -57,9 +57,9 @@ The project provides code samples and tests to explain and verify these concepts
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mustafaacarinfo/fdopendir-safety-analysis.git
+   git clone https://github.com/mustafaacarinfo/fdopendir-safe-analysis.git
 
-2. cd fdopendir-safety-analysis
+2. cd fdopendir-safe-analysis
 
 3. check your ldd --version  [exmple output: ldd (Ubuntu GLIBC 2.27-3ubuntu1.6) 2.27]
     
