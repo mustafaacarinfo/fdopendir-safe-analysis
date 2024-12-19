@@ -62,8 +62,9 @@ The project provides code samples and tests to explain and verify these concepts
 2. cd fdopendir-safe-analysis
 
 3. check your ldd --version  [exmple output: ldd (Ubuntu GLIBC 2.27-3ubuntu1.6) 2.27]
-    
-4. ./scripts/compile_and_run_with_valgrind.sh
+4. chmod +x ./scripts/compile_and_run_with_valgrind.sh
+5. sudo apt  install valgrind 
+6. ./scripts/compile_and_run_with_valgrind.sh
 
     Test Selection: Follow the interactive prompts to choose the desired test:
 
