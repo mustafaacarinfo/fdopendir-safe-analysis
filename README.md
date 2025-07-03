@@ -1,7 +1,7 @@
 # fdopendir-safe-analysis
 This repo focuses on the analysis of fdopendir with three concepts.
 
-# 🚀 Compiler Expert - Embedded Software Engineer - Mustafa Acar 🌟
+#Embedded Software Engineer - Mustafa Acar 🌟
 
 Welcome to the **fdopendir Safety Analysis** project! This repository showcases advanced techniques and testing methodologies for analyzing and understanding safety concepts like **MT-Safe**, **AS-safe Heap**, and **AC-safe** within the glibc library.
 
